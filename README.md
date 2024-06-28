@@ -1,4 +1,4 @@
-Olá! eu sou o Rafael Santos 👋
+## Olá! eu sou o Rafael Santos 👋
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSantoos01&show_icons=true&theme=radical)
 
