@@ -1,6 +1,6 @@
 ## Olá! eu sou o Rafael Santos 👋
 
-Sou Rafael estudante de Ánalise e Desenvolvimento de Sistema, tenho 21 anos e sou apaixonado pela tecnologia e em como ela pode ajudar a vida das pessoas e salvar o planeta terra🌎
+<Strong>Sou Rafael estudante de Ánalise e Desenvolvimento de Sistema, tenho 21 anos e sou apaixonado pela tecnologia e em como ela pode ajudar a vida das pessoas e salvar o planeta terra🌎<Strong>
 
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSantoos01&show_icons=true&theme=radical)
