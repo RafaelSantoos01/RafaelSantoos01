@@ -4,7 +4,7 @@
 
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSantoos01&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSantoos01&layout=compact)
 ## Social
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafa.out01@gmail.com)
